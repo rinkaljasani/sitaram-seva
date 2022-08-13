@@ -37,7 +37,7 @@
             </div>
           </div> 
         @empty   
-          <p>No Data Found</p>
+           <img src="{{ asset('frontend/images/no-data.png')}}" class="img-fluid">
         @endforelse
       </div>
     </div>

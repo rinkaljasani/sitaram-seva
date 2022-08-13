@@ -34,7 +34,7 @@
         </div>
         @empty
         <div class="col-12 col-sm-6 col-md-6 col-lg-4 mb-4 mb-lg-0">
-          <p class="pl-5">No Event Found</p>
+           <img src="{{ asset('frontend/images/no-data.png')}}" class="img-fluid">
         </div>
         @endforelse
         

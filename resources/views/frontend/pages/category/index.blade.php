@@ -32,7 +32,7 @@
           </div>
         </div>
         @empty
-        <p><a href="#" class="link-underline">No Category</a></p>
+         <img src="{{ asset('frontend/images/no-data.png')}}" class="img-fluid">
         @endforelse
       </div>
     </div>
