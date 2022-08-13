@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
 
-	@include('admin.layouts.includes.css')
+	{{-- @include('admin.layouts.includes.css') --}}
 	@stack('extra-css-styles')
 
 	@include('admin.layouts.includes.favicon')
