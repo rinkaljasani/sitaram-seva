@@ -13,7 +13,7 @@
 		<!--begin::Header-->
 		<div class="d-flex align-items-center mt-5">
 			<div class="symbol symbol-100 mr-5">
-				<div class="symbol-label" style="background-image:url('{{ asset('assets/media/users/300_21.jpg') }}')"></div>
+				<div class="symbol-label" style="background-image:url('{{ asset('admin/media/users/300_21.jpg') }}')"></div>
 				<i class="symbol-badge bg-success"></i>
 			</div>
 			<div class="d-flex flex-column">
@@ -23,7 +23,7 @@
 						<span class="navi-link p-0 pb-2">
 							<span class="navi-icon mr-1">
 								<span class="svg-icon svg-icon-lg svg-icon-primary">
-									<!--begin::Svg Icon | path:assets/media/svg/icons/Communication/Mail-notification.svg-->
+									<!--begin::Svg Icon | path:admin/media/svg/icons/Communication/Mail-notification.svg-->
 									<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 										<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 											<rect x="0" y="0" width="24" height="24" />
@@ -54,7 +54,7 @@
 					<div class="symbol symbol-40 bg-light mr-3">
 						<div class="symbol-label">
 							<span class="svg-icon svg-icon-md svg-icon-success">
-								<!--begin::Svg Icon | path:assets/media/svg/icons/General/Notification2.svg-->
+								<!--begin::Svg Icon | path:admin/media/svg/icons/General/Notification2.svg-->
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 									<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 										<rect x="0" y="0" width="24" height="24" />
@@ -80,7 +80,7 @@
 					<div class="symbol symbol-40 bg-light mr-3">
 						<div class="symbol-label">
 							<span class="svg-icon svg-icon-md svg-icon-warning">
-								<!--begin::Svg Icon | path:assets/media/svg/icons/Shopping/Chart-bar1.svg-->
+								<!--begin::Svg Icon | path:admin/media/svg/icons/Shopping/Chart-bar1.svg-->
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 									<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 										<rect x="0" y="0" width="24" height="24" />
@@ -107,7 +107,7 @@
 					<div class="symbol symbol-40 bg-light mr-3">
 						<div class="symbol-label">
 							<span class="svg-icon svg-icon-md svg-icon-danger">
-								<!--begin::Svg Icon | path:assets/media/svg/icons/Files/Selected-file.svg-->
+								<!--begin::Svg Icon | path:admin/media/svg/icons/Files/Selected-file.svg-->
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 									<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 										<polygon points="0 0 24 0 24 24 0 24" />
@@ -132,7 +132,7 @@
 					<div class="symbol symbol-40 bg-light mr-3">
 						<div class="symbol-label">
 							<span class="svg-icon svg-icon-md svg-icon-primary">
-								<!--begin::Svg Icon | path:assets/media/svg/icons/Communication/Mail-opened.svg-->
+								<!--begin::Svg Icon | path:admin/media/svg/icons/Communication/Mail-opened.svg-->
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 									<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 										<rect x="0" y="0" width="24" height="24" />
@@ -165,7 +165,7 @@
 			<div class="d-flex align-items-center bg-light-warning rounded p-5 gutter-b">
 				<span class="svg-icon svg-icon-warning mr-5">
 					<span class="svg-icon svg-icon-lg">
-						<!--begin::Svg Icon | path:assets/media/svg/icons/Home/Library.svg-->
+						<!--begin::Svg Icon | path:admin/media/svg/icons/Home/Library.svg-->
 						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 							<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 								<rect x="0" y="0" width="24" height="24" />
@@ -187,7 +187,7 @@
 			<div class="d-flex align-items-center bg-light-success rounded p-5 gutter-b">
 				<span class="svg-icon svg-icon-success mr-5">
 					<span class="svg-icon svg-icon-lg">
-						<!--begin::Svg Icon | path:assets/media/svg/icons/Communication/Write.svg-->
+						<!--begin::Svg Icon | path:admin/media/svg/icons/Communication/Write.svg-->
 						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 							<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 								<rect x="0" y="0" width="24" height="24" />
@@ -209,7 +209,7 @@
 			<div class="d-flex align-items-center bg-light-danger rounded p-5 gutter-b">
 				<span class="svg-icon svg-icon-danger mr-5">
 					<span class="svg-icon svg-icon-lg">
-						<!--begin::Svg Icon | path:assets/media/svg/icons/Communication/Group-chat.svg-->
+						<!--begin::Svg Icon | path:admin/media/svg/icons/Communication/Group-chat.svg-->
 						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 							<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 								<rect x="0" y="0" width="24" height="24" />
@@ -231,7 +231,7 @@
 			<div class="d-flex align-items-center bg-light-info rounded p-5">
 				<span class="svg-icon svg-icon-info mr-5">
 					<span class="svg-icon svg-icon-lg">
-						<!--begin::Svg Icon | path:assets/media/svg/icons/General/Attachment2.svg-->
+						<!--begin::Svg Icon | path:admin/media/svg/icons/General/Attachment2.svg-->
 						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
 							<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 								<rect x="0" y="0" width="24" height="24" />

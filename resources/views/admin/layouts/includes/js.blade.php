@@ -7,20 +7,20 @@
 
 
 {{-- Global Theme Bundle(used by all pages) Start --}}
-<script src="{{ asset('assets/plugins/global/plugins.bundle.js') }}"></script>
-<script src="{{ asset('assets/plugins/custom/prismjs/prismjs.bundle.js') }}"></script>
-<script src="{{ asset('assets/js/scripts.bundle.js') }}"></script>
+<script src="{{ asset('admin/plugins/global/plugins.bundle.js') }}"></script>
+<script src="{{ asset('admin/plugins/custom/prismjs/prismjs.bundle.js') }}"></script>
+<script src="{{ asset('admin/js/scripts.bundle.js') }}"></script>
 
-<script src="{{ asset('assets/plugins/custom/datatables/datatables.bundle.js') }}"></script>
-<!-- <script src="{{ asset('assets/js/pages/crud/datatables/basic/paginations.js') }}"></script> -->
+<script src="{{ asset('admin/plugins/custom/datatables/datatables.bundle.js') }}"></script>
+<!-- <script src="{{ asset('admin/js/pages/crud/datatables/basic/paginations.js') }}"></script> -->
 {{-- Global Theme Bundle(used by all pages) End --}}
 
 {{-- Page Vendors(used by this page) Start --}}
-<!-- <script src="{{ asset('assets/plugins/custom/fullcalendar/fullcalendar.bundle.js') }}"></script> -->
+<!-- <script src="{{ asset('admin/plugins/custom/fullcalendar/fullcalendar.bundle.js') }}"></script> -->
 {{-- Page Vendors(used by this page) End --}}
 
 {{-- Page Scripts(used by this page) Start --}}
-<script src="{{ asset('assets/js/pages/widgets.js') }}"></script>
+<script src="{{ asset('admin/js/pages/widgets.js') }}"></script>
 {{-- Page Scripts(used by this page) End --}}
 
 
