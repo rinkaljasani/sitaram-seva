@@ -5,7 +5,7 @@
 @endpush
 
 @push('extra-css-styles')
-<link rel="stylesheet" type="text/css" href="{{ asset('assets/plugins/custom/datatables/datatables.bundle.css') }}" />
+<link rel="stylesheet" type="text/css" href="{{ asset('admin/plugins/custom/datatables/datatables.bundle.css') }}" />
 @endpush
 
 @section('content')
