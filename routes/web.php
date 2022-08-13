@@ -21,7 +21,7 @@ use Illuminate\Support\Facades\Route;
 
 // main routes for  website
 Route::get('/','FrontendPagesController@index')->name('index');
-Route::get('/index','FrontendPagesController@index')->name('index');
+// Route::get('/index','FrontendPagesController@index')->name('index');
 Route::get('/how-it-works','FrontendPagesController@howItsWork')->name('how-its-work');
 
 Route::get('/gallery/image','FrontendPagesController@imageGallery')->name('gallery.image');
@@ -66,14 +66,6 @@ Route::group(['prefix' => 'admin'], function () {
   Route::get('/password/reset', 'AdminAuth\ForgotPasswordController@showLinkRequestForm')->name('admin.password.reset');
   Route::get('/password/reset/{token}/{email?}', 'AdminAuth\ResetPasswordController@showResetForm');
 });
-Route::get('/', function () {
-
-  // Redis::set('name', 'Taylor');
-  // dd(Redis::get('name'));
-    // return view('welcome');
-    // print_r(app()->make('redis'));
-});
-
 // Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

@@ -120,7 +120,7 @@
             </div>
             
             @empty
-              <p>ss</p>
+              <img src="{{ asset('frontend/images/no-data.png')}}">
             @endforelse
           </div>
         </div>
@@ -152,7 +152,8 @@
           </div>    
         </div>
         @empty
-          <p>No Donation Found</p>
+          {{-- <p>No Donation Found</p> --}}
+          <img src="{{ asset('frontend/images/no-data.png')}}">
         @endforelse
       </div>
     </div>
@@ -258,7 +259,7 @@
               <div class="form-group">
                 <!-- <label for="name">Name</label> -->
                 <div class="upload-btn-wrapper">
-                  <i><button class="form-control text-left text-capitalize btn btn-block py-1.5 font-italic">Upload a file</button></i>
+                  <i><button class="form-control text-left text-capitalize btn btn-block py-1.5 font-italic" style="letter-spacing:0.02em">Upload Your Profile image</button></i>
                   <input type="file" name="image" />
                 </div>
               </div>

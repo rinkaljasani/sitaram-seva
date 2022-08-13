@@ -428,8 +428,8 @@ h5,
   cursor: pointer;
   border-radius: 0px;
   border: 2px solid transparent;
-  font-size: 14px;
-  letter-spacing: 0.2em;
+  font-size: 15px;
+  letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #999999;
   -webkit-box-shadow: 0 5px 20px -5px rgba(0, 0, 0, 0.5);
