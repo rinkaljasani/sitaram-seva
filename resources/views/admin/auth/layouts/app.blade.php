@@ -10,7 +10,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/pages/login/login-4.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('admin/css/pages/login/login-4.min.css') }}" />
 
     @include('admin.auth.layouts.includes.css')
     @stack('extra-css-styles')
