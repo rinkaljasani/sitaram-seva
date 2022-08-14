@@ -23,9 +23,10 @@
           <div class="block-23">
             <h3 class="heading-section">Social Media</h3>
               <ul class="d-flex justify-content-start">
-                <li class="mr-3"><a href="#"><span class="icon icon-youtube-play"></span></a></li>
-                <li class="mr-3"><a href="#"><span class="icon icon-instagram"></span></a></li>
-                <li class="mr-3"><a href="#"><span class="icon icon-facebook"></span></a></li>
+                <li class="mr-3"><a href="https://www.youtube.com/"><span class="icon icon-youtube-play"></span></a></li>
+                <li class="mr-3"><a href="https://instagram.com/shree_pritesh_bapu?igshid=YmMyMTA2M2Y="><span class="icon icon-instagram"></span></a></li>
+                <li class="mr-3"><a href="https://www.facebook.com/DikriNuGhar"><span class="icon icon-facebook"></span></a></li>
+                <li class="mr-3"><a href="https://chat.whatsapp.com/FUXwnT7eKSK5f2X5C7lDYe"><span class="icon icon-whatsapp"></span></a></li>
               </ul>
             </div>
         </div>
@@ -33,8 +34,8 @@
           <div class="block-23">
             <h3 class="heading-section">Get Connected</h3>
               <ul>
-                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-                <li><a href="#"><span class="icon icon-phone"></span><span class="text">9913555319</span></a></li>
+                <li><span class="icon icon-map-marker"></span><span class="text">Kankunagar Jamnagar, Kalavad Road, Near Vijarkhi Village, Jamnagar</span></li>
+                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 99135 55319</span></a></li>
                 <li><a href="mailto:shreesitaramseva@gmail.com"><span class="icon icon-envelope"></span><span class="text">shreesitaramseva@gmail.com</span></a></li>
               </ul>
             </div>

@@ -136,10 +136,12 @@
         <p class="mb-5"><a href="{{ route('donates.index') }}" class="link-underline">View All Donations</a></p>
       </div>
     </div>
-  <div class="site-section fund-raisers">
-   
-
+  <div class="site-section fund-raisers container-fluid">
       <div class="row">
+        <div class="col-md-12 block-11">
+          <div class="nonloop-block-11 owl-carousel">
+        
+
         @forelse($donations as $donation)
         <div class="col-md-6 col-lg-3 mb-5">
           <div class="person-donate text-center">
@@ -155,6 +157,8 @@
           {{-- <p>No Donation Found</p> --}}
           <img src="{{ asset('frontend/images/no-data.png')}}" class="img-fluid">
         @endforelse
+        </div>
+      </div>
       </div>
     </div>
   </div> <!-- .section -->
