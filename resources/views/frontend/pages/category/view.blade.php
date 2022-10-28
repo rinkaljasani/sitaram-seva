@@ -18,7 +18,7 @@
   <div class="site-section bg-light">
     
         <div id="blog" class="site-section">
-          <div class="container">
+          <div class="container-fluid">
                   
                   <div class="row">
       
